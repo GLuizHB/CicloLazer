@@ -1,5 +1,5 @@
 Projeto desenvolvido como projeto final do curso de Inteligencia Artificial, ministrado pelo SENAI-Tagutainga-DF, Professor [Rômuo Silvestre](https://github.com/romulosilvestre).
-com a ajuda de [Andre Vargas](https://github.com/AndreVargas0) e [Alana Calado](https://github.com/alanacalado)
+Com a colaboração de [Andre Vargas](https://github.com/AndreVargas0) e [Alana Calado](https://github.com/alanacalado)
 
 # Ciclo Lazer - Previsão de Bicicletas Disponíveis
 
