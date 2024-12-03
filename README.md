@@ -1,6 +1,8 @@
 Projeto desenvolvido como projeto final do curso de Inteligencia Artificial, ministrado pelo SENAI-Tagutainga-DF, Professor [Rômuo Silvestre](https://github.com/romulosilvestre).
 Com a colaboração de [Andre Vargas](https://github.com/AndreVargas0) e [Alana Calado](https://github.com/alanacalado)
 
+![Logo do Ciclo Lazer](ciclolazer.jpg)
+
 # Ciclo Lazer - Previsão de Bicicletas Disponíveis
 
 Este projeto utiliza aprendizado de máquina para prever a quantidade de bicicletas disponíveis em estações de bicicletas compartilhadas. O modelo leva em consideração dados históricos de viagens, características dos usuários e informações das estações para realizar previsões.
