@@ -66,4 +66,4 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias, corre
 
 ## Contato
 
-Se você tiver dúvidas ou quiser entrar em contato, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-perfil/]([https://www.linkedin.com/in/luiz-bernardino-89931a1bb/](https://www.linkedin.com/in/luiz-bernardino-89931a1bb/)) ou [GitHub]([[https://github.com/seu-usuario](https://github.com/GLuizHB)](https://github.com/GLuizHB)).
+Se você tiver dúvidas ou quiser entrar em contato, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/luiz-bernardino-89931a1bb/) ou [GitHub](https://github.com/GLuizHB).
