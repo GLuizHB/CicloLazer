@@ -1,4 +1,4 @@
-Projeto desenvolvido como projeto final do curso de Inteligencia Artificial, ministrado pelo SENAI-Tagutainga-DF, Professor [Rômuo Silvestre](https://github.com/romulosilvestre).
+Desenvolvido como projeto final do curso de Inteligencia Artificial, ministrado pelo SENAI-Tagutainga-DF, Professor [Rômuo Silvestre](https://github.com/romulosilvestre).
 Com a colaboração de [Andre Vargas](https://github.com/AndreVargas0) e [Alana Calado](https://github.com/alanacalado)
 
 ![Logo do Ciclo Lazer](ciclolazer.jpg)
@@ -69,3 +69,6 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias, corre
 ## Contato
 
 Se você tiver dúvidas ou quiser entrar em contato, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/luiz-bernardino-89931a1bb/) ou [GitHub](https://github.com/GLuizHB).
+
+
+![dashboard](dashboard.png)
