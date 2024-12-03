@@ -13,7 +13,7 @@ Este projeto utiliza aprendizado de máquina para prever a quantidade de bicicle
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3**
 - **Streamlit**: Para construção da interface web interativa.
 - **Pandas**: Para manipulação e análise de dados.
 - **PyDeck**: Para visualização interativa de mapas.
